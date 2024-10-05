@@ -1,3 +1,5 @@
+[![houaslam's 42 stats](https://badge.mediaplus.ma/starryblue/houaslam)](https://github.com/oakoudad/badge42)
+
 <h1 align="center">Hi 👋, I'm hajar</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 

@@ -1,7 +1,7 @@
 [![houaslam's 42 stats](https://badge.mediaplus.ma/starryblue/houaslam)](https://github.com/oakoudad/badge42)
 
 <h1 align="center">Hi 👋, I'm hajar</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A fullstack developer, passionate about coding and problem-solving | Exploring algorithms, web development, and open-source projects | Always eager to learn and collaborate! </h3>
 
 - 🔭 I’m currently working on [ft_transcendence](https://github.com/houaslam/ft_transcendence)
 
